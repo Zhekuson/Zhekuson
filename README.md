@@ -35,8 +35,8 @@ Working as teaching assistant on the subject “Algebra” (2019-2020)
 https://cs.hse.ru/initiative/2020/2021-1  
 https://cs.hse.ru/initiative/2019/2020-1  
 
-Working as a teacher of several subjects at a summer camp 
-http://lmsh.edu.ru
+Working as a teacher of several subjects at a summer camp (2019)
+  http://lmsh.edu.ru
 
 
 
