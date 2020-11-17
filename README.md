@@ -19,7 +19,8 @@ Currently I'm studying at HSE university, Faculty of Computer Science
 #### Backend
 ![Spring](https://img.shields.io/badge/-Spring-33b42f?style=for-the-badge&logo=Spring&logoColor=green)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-0d2d66?style=for-the-badge)  
-![MS SQL server](https://img.shields.io/badge/-MS_SQL_SERVER-666b6f?style=for-the-badge&logo=MS_SQL_SERVER&logoColor=green)
+![MS SQL server](https://img.shields.io/badge/-MS_SQL_SERVER-666b6f?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=blue)
 #### ML
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=for-the-badge&logo=Pytorch&logoColor=orange)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-f89939?style=for-the-badge&logo=Scikit_Learn&logoColor=orange)
