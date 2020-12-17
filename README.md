@@ -15,7 +15,7 @@ Currently I'm studying at HSE university, Faculty of Computer Science
 ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
 #### App dev
 ![Android](https://img.shields.io/badge/-Android-dbdbdb?style=for-the-badge&logo=Android&logoColor=green)
-![tornadoFX](https://img.shields.io/badge/-TornadoFX-00dbd2?style=for-the-badge&logo=Tornadofx&logoColor=orange)
+<!--![tornadoFX](https://img.shields.io/badge/-TornadoFX-00dbd2?style=for-the-badge&logo=Tornadofx&logoColor=orange)-->
 #### Backend
 ![Spring](https://img.shields.io/badge/-Spring-33b42f?style=for-the-badge&logo=Spring&logoColor=green)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-0d2d66?style=for-the-badge)  
