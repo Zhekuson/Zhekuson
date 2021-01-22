@@ -32,7 +32,9 @@ Got some online courses cert from ![Coursera](https://img.shields.io/badge/-Cour
 and ![Stepik](https://img.shields.io/badge/-Stepik-66cc66?style=for-the-badge&logo=Stepik&logoColor=white)
 
 #### Career
-Working as teaching assistant on the subject “Algebra” (2019-2020)   
+Working at **Kaspersky** as Android dev intern (2021-present)
+
+Working as teaching assistant on the subject “Algebra” (2019-present)   
 https://cs.hse.ru/initiative/2020/2021-1  
 https://cs.hse.ru/initiative/2019/2020-1  
 
