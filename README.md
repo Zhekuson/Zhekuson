@@ -16,13 +16,18 @@ Currently I'm studying at HSE university, Faculty of Computer Science
 
 #### App dev
 ![Android](https://img.shields.io/badge/-Android-dbdbdb?style=for-the-badge&logo=Android&logoColor=green)
+
+**Tech stack**  
 ![RxJava](https://img.shields.io/badge/-RxJava-dbdbdb?style=for-the-badge&logo=ReactiveX&logoColor=B7178C)
-![Room](https://img.shields.io/badge/-Room-dbdbdb?style=for-the-badge)
-![Jetpack](https://img.shields.io/badge/-Jetpack-dbdbdb?style=for-the-badge)
-![MVP](https://img.shields.io/badge/-MVP-dbdbdb?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/-MVVM-dbdbdb?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/-Coroutines-dbdbdb?style=for-the-badge)
-![Dagger](https://img.shields.io/badge/--dbdbdb?style=for-the-badge)
+![Room](https://img.shields.io/badge/-Room-745dfa?style=for-the-badge)
+![Jetpack](https://img.shields.io/badge/-Jetpack-4285f4?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/-Coroutines-11209f?style=for-the-badge)
+![Dagger](https://img.shields.io/badge/-Dagger-green?style=for-the-badge)  
+
+**Preferred Arch Style**    
+![MVP](https://img.shields.io/badge/-MVP-c55a11?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/-MVVM-e2347d?style=for-the-badge)
+
 #### ML as hobby
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=for-the-badge&logo=Pytorch&logoColor=orange)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-f89939?style=for-the-badge&logo=Scikit_Learn&logoColor=orange)
