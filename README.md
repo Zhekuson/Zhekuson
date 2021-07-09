@@ -22,7 +22,7 @@ Currently I'm studying at HSE university, Faculty of Computer Science
 ![MVP](https://img.shields.io/badge/-MVP-dbdbdb?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/-MVVM-dbdbdb?style=for-the-badge)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-dbdbdb?style=for-the-badge)
-![](https://img.shields.io/badge/--dbdbdb?style=for-the-badge)
+![Dagger](https://img.shields.io/badge/--dbdbdb?style=for-the-badge)
 #### ML as hobby
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=for-the-badge&logo=Pytorch&logoColor=orange)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-f89939?style=for-the-badge&logo=Scikit_Learn&logoColor=orange)
