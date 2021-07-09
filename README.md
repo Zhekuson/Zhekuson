@@ -12,16 +12,18 @@ Currently I'm studying at HSE university, Faculty of Computer Science
 ![Kotlin](https://img.shields.io/badge/-Kotlin-2d96ff?style=for-the-badge&logo=kotlin&logoColor=orange)
 ![Java](https://img.shields.io/badge/-Java-ff2120?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B)
+
 #### App dev
 ![Android](https://img.shields.io/badge/-Android-dbdbdb?style=for-the-badge&logo=Android&logoColor=green)
-<!--![tornadoFX](https://img.shields.io/badge/-TornadoFX-00dbd2?style=for-the-badge&logo=Tornadofx&logoColor=orange)-->
-#### Backend
-![Spring](https://img.shields.io/badge/-Spring-33b42f?style=for-the-badge&logo=Spring&logoColor=green)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-0d2d66?style=for-the-badge)  
-![MS SQL server](https://img.shields.io/badge/-MS_SQL_SERVER-666b6f?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=blue)
-#### ML
+![RxJava](https://img.shields.io/badge/-RxJava-dbdbdb?style=for-the-badge&logo=ReactiveX&logoColor=B7178C)
+![Room](https://img.shields.io/badge/-Room-dbdbdb?style=for-the-badge)
+![Jetpack](https://img.shields.io/badge/-Jetpack-dbdbdb?style=for-the-badge)
+![MVP](https://img.shields.io/badge/-MVP-dbdbdb?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/-MVVM-dbdbdb?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/-Coroutines-dbdbdb?style=for-the-badge)
+![](https://img.shields.io/badge/--dbdbdb?style=for-the-badge)
+#### ML as hobby
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=for-the-badge&logo=Pytorch&logoColor=orange)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-f89939?style=for-the-badge&logo=Scikit_Learn&logoColor=orange)
 
@@ -32,7 +34,9 @@ Got some online courses cert from ![Coursera](https://img.shields.io/badge/-Cour
 and ![Stepik](https://img.shields.io/badge/-Stepik-66cc66?style=for-the-badge&logo=Stepik&logoColor=white)
 
 #### Career
-Working at **Kaspersky** as Android dev intern (2021-present)
+
+Working at <a href="https://www.kaspersky.ru/"><img src="https://user-images.githubusercontent.com/30335842/125087056-d9669780-e0d4-11eb-8def-61c696803b0a.png" height="24" width="105"></a>
+ as Android dev intern (2021-present)
 
 Working as teaching assistant on the subject “Algebra” (2019-present)   
 https://cs.hse.ru/initiative/2020/2021-1  
@@ -44,17 +48,4 @@ Working as a teacher of several subjects at a summer camp (2019)
 
 
 
-<!--
-**Zhekuson/Zhekuson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
