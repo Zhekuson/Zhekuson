@@ -30,7 +30,11 @@ Currently I'm studying at HSE university, Faculty of Computer Science
 
 #### ML as hobby
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=for-the-badge&logo=Pytorch&logoColor=orange)
-![Sklearn](https://img.shields.io/badge/-Sklearn-f89939?style=for-the-badge&logo=Scikit_Learn&logoColor=orange)
+![Sklearn](https://img.shields.io/badge/-Sklearn-000000?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+  
+![Kaggle](https://img.shields.io/badge/-Kaggle-gray?style=for-the-badge&logo=kaggle&logoColor=blue?) profile:  
+  
+[Link](https://www.kaggle.com/zhekuson)
 
 #### Education
 **HSE** university, Faculty of Computer Science, Software Engineering (2018-2022)  
