@@ -8,6 +8,15 @@ Currently I'm studying at HSE university, Faculty of Computer Science
 [![VK](https://img.shields.io/badge/VK-1DA1F2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/zhekuson)  
 **Email:**  zhekuson@gmail.com  
 
+![trophy](https://github-profile-trophy.vercel.app/?username=zhekuson&title_color=fff&text_color=fff&margin-w=15&margin-h=15)
+
+
+<div>
+<img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=zhekuson&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="zhekuson" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhekuson&layout=compact&bg_color=30,e96443,904e95&langs_count=8&title_color=fff&text_color=fff" />
+</div>
+
+
 #### Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-2d96ff?style=for-the-badge&logo=kotlin&logoColor=orange)
 ![Java](https://img.shields.io/badge/-Java-ff2120?style=for-the-badge&logo=java)
