@@ -1,52 +1,25 @@
-### Hello there 👋
+# Please be patient, I ~don't~ have sense of humor
+
+This is my github profile.  
+_"I used to be a developer like you. Then I took an arrow in the knee"_
+# Key points
+## Tech Stack
+
+**Languages:** Python, Golang, C++  
+
+**Frameworks/Technologies:** Pyspark, Hadoop, Clickhouse, Kafka, Docker, Airflow, Pytorch, Optuna, Wandb
+
+## Education
+**HSE** University, Faculty of Computer Science, Software Engineering (2018-2022)  
+### Work Experience
+ 
+### Contacts:
+[Telegram](https://t.me/Zhekuson)  
+**Email:**  zhekuson@gmail.com    
+[Kaggle profile](https://www.kaggle.com/zhekuson)
 
 
-My name is Evgenii Plyusch, and I'm 20 y.o. developer from Moscow, Russia  
-Currently I'm studying at HSE university, Faculty of Computer Science  
-#### Contacts:
-[![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/Zhekuson)
-[![VK](https://img.shields.io/badge/VK-1DA1F2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/zhekuson)  
-**Email:**  zhekuson@gmail.com  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zhekuson&title_color=fff&text_color=fff&margin-w=15&margin-h=15)
-
-
-<div>
-<img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=zhekuson&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="zhekuson" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhekuson&layout=compact&bg_color=30,e96443,904e95&langs_count=8&title_color=fff&text_color=fff" />
-</div>
-
-
-#### Languages
-![Kotlin](https://img.shields.io/badge/-Kotlin-2d96ff?style=for-the-badge&logo=kotlin&logoColor=orange)
-![Java](https://img.shields.io/badge/-Java-ff2120?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B)
-
-#### App dev
-![Android](https://img.shields.io/badge/-Android-dbdbdb?style=for-the-badge&logo=Android&logoColor=green)
-
-**Tech stack**  
-![RxJava](https://img.shields.io/badge/-RxJava-dbdbdb?style=for-the-badge&logo=ReactiveX&logoColor=B7178C)
-![Room](https://img.shields.io/badge/-Room-745dfa?style=for-the-badge)
-![Jetpack](https://img.shields.io/badge/-Jetpack-4285f4?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/-Coroutines-11209f?style=for-the-badge)
-![Dagger](https://img.shields.io/badge/-Dagger-green?style=for-the-badge)  
-
-**Preferred Arch Style**    
-![MVP](https://img.shields.io/badge/-MVP-c55a11?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/-MVVM-e2347d?style=for-the-badge)
-
-#### ML as hobby
-![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=for-the-badge&logo=Pytorch&logoColor=orange)
-![Sklearn](https://img.shields.io/badge/-Sklearn-000000?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-  
-![Kaggle](https://img.shields.io/badge/-Kaggle-gray?style=for-the-badge&logo=kaggle&logoColor=blue?) profile:  
-  
-[Link](https://www.kaggle.com/zhekuson)
-
-#### Education
-**HSE** university, Faculty of Computer Science, Software Engineering (2018-2022)  
 Graduated from lyceum №1580, with max possible GPA (2015-2018)  
 Got some online courses cert from ![Coursera](https://img.shields.io/badge/-Coursera-035d9e?style=for-the-badge&logo=Coursera&logoColor=white)
 and ![Stepik](https://img.shields.io/badge/-Stepik-66cc66?style=for-the-badge&logo=Stepik&logoColor=white)
