@@ -17,7 +17,6 @@ _"I used to be a developer like you. Then I took an arrow in the knee"_
 **Frameworks/Technologies:**   
 
 **_ML:_**  
-
 ![Pytorch](https://img.shields.io/badge/Pytorch-fa3812) ![Catboost](https://img.shields.io/badge/Catboost-fccb00)
 ![Optuna](https://img.shields.io/badge/Optuna-0a2c75) ![Wandb](https://img.shields.io/badge/Wandb-191c1e)  
 
