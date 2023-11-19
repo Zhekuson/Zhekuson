@@ -1,18 +1,25 @@
 # Please be patient, I ~~don't~~ have sense of humor
-My name is Evgeny Plyushch (Евгений Плющ)  
+My name is Evgeny Plyushch (_cyrillic: Евгений Плющ_)  
 This is my GitHub profile.  
-Full current CV can be found here
+Education/Career/Achievements can be found [here in CV](https://drive.google.com/file/d/1oY-DEJxrwSMvIJPyxY0dVUbGOgz5xsDF/view)
 
 ### Contacts:
+I speak **English** (fluent, I guess) & **Russian** (native)
+
 **Telegram:** [link](https://t.me/Zhekuson)  
 **Email:**  zhekuson@gmail.com    
 **Kaggle profile:** [link](https://www.kaggle.com/zhekuson)
 
-# Key points
-## Skills
+---
+## Key points
+### Preferable position
+DS / MLE / MLR  
+Current occupation: Moscow, Russia  
+Remote/relocate is possible
+### Skills
 
 **Primary language:** Python  
-**Familiar:** Golang, C++  
+**Familiar:** Golang 
 
 **Frameworks/Technologies:**
 
@@ -33,6 +40,8 @@ _**DE/ETL:**_
 ![Docker](https://img.shields.io/badge/Docker-2060f6) ![Grafana](https://img.shields.io/badge/Grafana-fb7a00)
 ![Git](https://img.shields.io/badge/Git-fa401e) ![Bash](https://img.shields.io/badge/Bash-22b643) ![Latex](https://img.shields.io/badge/Latex-010101)  
 
+**_For those who can't read:_**
+
 <img src="assets/icons8-pytorch.svg" width="40">
 <img src="assets/catboost.svg" width="40">
 <img src="assets/favicon.ico" width="40">
@@ -50,29 +59,19 @@ _**DE/ETL:**_
 <img src="assets/bash-2.svg" width="40">
 <img src="assets/LaTeX_logo.svg" width="80">
 
-## Education  
+## Several projects 
 
+
+
+
+---
+## Education
 
 | Level             | Place of study                              | Field of study                                                                        | Timeline  |
 |-------------------|---------------------------------------------|---------------------------------------------------------------------------------------|-----------|
 | Master's degree   | HSE University, Faculty of Computer Science | Applied Mathematics and Informatics<br/>(Machine Learning and Data‐Intensive Systems) | 2022-2024 |
 | Bachelor's degree | HSE University, Faculty of Computer Science | Software Engineering                                                                  | 2018-2022 |
 | High School       | Lyceum №1580 at the MSTU                    | General education, in-depth Physics and Mathematics                                   | 2015-2018 |
-
- 
-
-
-## Career/Work Experience
-
-Working at
- as Android dev intern (2021-present)
-
-Working as teaching assistant on the subject “Algebra” (2019-present)   
-https://cs.hse.ru/initiative/2020/2021-1  
-https://cs.hse.ru/initiative/2019/2020-1  
-
-Working as a teacher of several subjects at a summer camp (2019)
-  http://lmsh.edu.ru
 
 _"I used to be a developer like you. Then I took an arrow in the knee"_
 
