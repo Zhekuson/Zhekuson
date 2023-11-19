@@ -1,7 +1,7 @@
 # Please be patient, I ~~don't~~ have sense of humor
 My name is Evgeny Plyushch (Евгений Плющ)  
-This is my github profile.  
-
+This is my GitHub profile.  
+Full current CV can be found here
 
 ### Contacts:
 **Telegram:** [link](https://t.me/Zhekuson)  
@@ -9,31 +9,57 @@ This is my github profile.
 **Kaggle profile:** [link](https://www.kaggle.com/zhekuson)
 
 # Key points
-## Tech Stack
+## Skills
 
 **Primary language:** Python  
 **Familiar:** Golang, C++  
 
-**Frameworks/Technologies:**   
+**Frameworks/Technologies:**
 
-**_ML:_**  
+**_ML:_**
+
 ![Pytorch](https://img.shields.io/badge/Pytorch-fa3812) ![Catboost](https://img.shields.io/badge/Catboost-fccb00)
-![Optuna](https://img.shields.io/badge/Optuna-0a2c75) ![Wandb](https://img.shields.io/badge/Wandb-191c1e)  
+![Optuna](https://img.shields.io/badge/Optuna-0a2c75) ![Wandb](https://img.shields.io/badge/Wandb-191c1e)
 
 _**DE/ETL:**_ 
  
 ![PySpark](https://img.shields.io/badge/PySpark-f44f00) ![Hadoop](https://img.shields.io/badge/Hadoop-efeb03) 
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-fccb00) ![Postgresql](https://img.shields.io/badge/Postgresql-1f6895) 
 ![Redis](https://img.shields.io/badge/Redis-ef1e19) ![Kafka](https://img.shields.io/badge/Kafka-ffffff)
-![Airflow](https://img.shields.io/badge/Airflow-35e5f1)  21b134 2bdb43
+![Airflow](https://img.shields.io/badge/Airflow-35e5f1)
 
-**_Utilities/other:_**  
+**_Utilities/other:_**
 
 ![Docker](https://img.shields.io/badge/Docker-2060f6) ![Grafana](https://img.shields.io/badge/Grafana-fb7a00)
-![Git](https://img.shields.io/badge/Git-fa401e) ![Bash](https://img.shields.io/badge/Bash-22b643) ![Latex](https://img.shields.io/badge/Latex-010101)
+![Git](https://img.shields.io/badge/Git-fa401e) ![Bash](https://img.shields.io/badge/Bash-22b643) ![Latex](https://img.shields.io/badge/Latex-010101)  
 
-## Education
-**HSE** University, Faculty of Computer Science, Software Engineering (2018-2022)  
+<img src="assets/icons8-pytorch.svg" width="40">
+<img src="assets/catboost.svg" width="40">
+<img src="assets/favicon.ico" width="40">
+<img src="assets/wandb.svg" width="40">
+<img src="assets/apache_spark.svg" width="60">
+<img src="assets/hadoop.svg" width="50">
+<img src="assets/clickhouse.svg" width="45">
+<img src="assets/postgresql.svg" width="40">
+<img src="assets/redis.svg" width="45">
+<img src="assets/kafka.svg" width="27">
+<img src="assets/airflow.svg" width="40">  
+<img src="assets/icons8-docker.svg" width="45">
+<img src="assets/icons8-grafana.svg" width="45">
+<img src="assets/git_icon.svg" width="40">
+<img src="assets/bash-2.svg" width="40">
+<img src="assets/LaTeX_logo.svg" width="80">
+
+## Education  
+
+
+| Level             | Place of study                              | Field of study                                                                        | Timeline  |
+|-------------------|---------------------------------------------|---------------------------------------------------------------------------------------|-----------|
+| Master's degree   | HSE University, Faculty of Computer Science | Applied Mathematics and Informatics<br/>(Machine Learning and Data‐Intensive Systems) | 2022-2024 |
+| Bachelor's degree | HSE University, Faculty of Computer Science | Software Engineering                                                                  | 2018-2022 |
+| High School       | Lyceum №1580 at the MSTU                    | General education, in-depth Physics and Mathematics                                   | 2015-2018 |
+
+ 
 
 
 ## Career/Work Experience
