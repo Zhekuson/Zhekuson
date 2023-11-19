@@ -1,7 +1,7 @@
-# Please be patient, I ~don't~ have sense of humor
+# Please be patient, I ~~don't~~ have sense of humor
 My name is Evgeny Plyushch (Евгений Плющ)  
 This is my github profile.  
-_"I used to be a developer like you. Then I took an arrow in the knee"_
+
 
 ### Contacts:
 **Telegram:** [link](https://t.me/Zhekuson)  
@@ -48,7 +48,7 @@ https://cs.hse.ru/initiative/2019/2020-1
 Working as a teacher of several subjects at a summer camp (2019)
   http://lmsh.edu.ru
 
-
+_"I used to be a developer like you. Then I took an arrow in the knee"_
 
 
 
