@@ -19,7 +19,8 @@ Remote/relocate is possible
 ### Skills
 
 ---
-<img src="assets/python.svg" width="35"> <img src="assets/golang.svg" width="50">
+<img src="assets/python.svg" width="35"> 
+<img src="assets/golang.svg" width="50">
 <img src="assets/pytorch.svg" width="40">
 <img src="assets/catboost.svg" width="40">
 <img src="assets/optuna.ico" width="40">
