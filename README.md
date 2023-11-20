@@ -18,8 +18,31 @@ Current occupation: Moscow, Russia
 Remote/relocate is possible
 ### Skills
 
-**Primary language:** Python  
-**Familiar:** Golang 
+---
+<img src="assets/python.svg" width="35">
+<img src="assets/golang.svg" width="50">
+<img src="assets/pytorch.svg" width="40">
+<img src="assets/catboost.svg" width="40">
+<img src="assets/optuna.ico" width="40">
+<img src="assets/wandb.svg" width="40">
+<img src="assets/apache_spark.svg" width="60">
+<img src="assets/hadoop.svg" width="50">
+<img src="assets/clickhouse.svg" width="45">
+<img src="assets/postgresql.svg" width="40">
+<img src="assets/redis.svg" width="45">
+<img src="assets/kafka.svg" width="27">
+<img src="assets/airflow.svg" width="40">  
+<img src="assets/docker.svg" width="45">
+<img src="assets/grafana.svg" width="45">
+<img src="assets/git_icon.svg" width="40">
+<img src="assets/bash.svg" width="40">
+<img src="assets/LaTeX_logo.svg" width="80">
+
+---
+
+**Primary language:** Python
+
+**Familiar:**  Golang
 
 **Frameworks/Technologies:**
 
@@ -40,24 +63,6 @@ _**DE/ETL:**_
 ![Docker](https://img.shields.io/badge/Docker-2060f6) ![Grafana](https://img.shields.io/badge/Grafana-fb7a00)
 ![Git](https://img.shields.io/badge/Git-fa401e) ![Bash](https://img.shields.io/badge/Bash-22b643) ![Latex](https://img.shields.io/badge/Latex-010101)  
 
-**_For those who can't read:_**
-
-<img src="assets/icons8-pytorch.svg" width="40">
-<img src="assets/catboost.svg" width="40">
-<img src="assets/favicon.ico" width="40">
-<img src="assets/wandb.svg" width="40">
-<img src="assets/apache_spark.svg" width="60">
-<img src="assets/hadoop.svg" width="50">
-<img src="assets/clickhouse.svg" width="45">
-<img src="assets/postgresql.svg" width="40">
-<img src="assets/redis.svg" width="45">
-<img src="assets/kafka.svg" width="27">
-<img src="assets/airflow.svg" width="40">  
-<img src="assets/icons8-docker.svg" width="45">
-<img src="assets/icons8-grafana.svg" width="45">
-<img src="assets/git_icon.svg" width="40">
-<img src="assets/bash-2.svg" width="40">
-<img src="assets/LaTeX_logo.svg" width="80">
 
 ## Several projects 
 
@@ -76,4 +81,6 @@ _**DE/ETL:**_
 _"I used to be a developer like you. Then I took an arrow in the knee"_
 
 
+[](![Python](https://img.shields.io/badge/Python-366f9f))
+[](![Golang](https://img.shields.io/badge/Golang-29aedc))
 
