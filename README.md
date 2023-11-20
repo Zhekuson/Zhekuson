@@ -19,24 +19,7 @@ Remote/relocate is possible
 ### Skills
 
 ---
-<img src="assets/python.svg" width="35"> 
-<img src="assets/golang.svg" width="50">
-<img src="assets/pytorch.svg" width="40">
-<img src="assets/catboost.svg" width="40">
-<img src="assets/optuna.ico" width="40">
-<img src="assets/wandb.svg" width="40">
-<img src="assets/apache_spark.svg" width="60">
-<img src="assets/hadoop.svg" width="50">
-<img src="assets/clickhouse.svg" width="45">
-<img src="assets/postgresql.svg" width="40">
-<img src="assets/redis.svg" width="45">
-<img src="assets/kafka.svg" width="27">
-<img src="assets/airflow.svg" width="40">  
-<img src="assets/docker.svg" width="45">
-<img src="assets/grafana.svg" width="45">
-<img src="assets/git_icon.svg" width="40">
-<img src="assets/bash.svg" width="40">
-<img src="assets/LaTeX_logo.svg" width="80">
+<img src="assets/python.svg" width="35"> <img src="assets/golang.svg" width="50"> <img src="assets/pytorch.svg" width="40"> <img src="assets/catboost.svg" width="40"> <img src="assets/optuna.ico" width="40"> <img src="assets/wandb.svg" width="40"> <img src="assets/apache_spark.svg" width="60"> <img src="assets/hadoop.svg" width="50"> <img src="assets/clickhouse.svg" width="45"> <img src="assets/postgresql.svg" width="40"> <img src="assets/redis.svg" width="45"> <img src="assets/kafka.svg" width="27"> <img src="assets/airflow.svg" width="40"> <img src="assets/docker.svg" width="45"> <img src="assets/grafana.svg" width="45"> <img src="assets/git_icon.svg" width="40"> <img src="assets/bash.svg" width="40"> <img src="assets/LaTeX_logo.svg" width="80">
 
 ---
 
