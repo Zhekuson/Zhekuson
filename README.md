@@ -19,11 +19,11 @@ Remote/relocate is possible
 ### Skills
 
 ---
-<img src="assets/python.svg" width="35"> 
-<img src="assets/pytorch.svg" width="40"> 
-<img src="assets/catboost.svg" width="40"> 
-<img src="assets/optuna.ico" width="40"> 
-<img src="assets/wandb.svg" width="40"> 
+<img src="assets/python.svg" width="35">
+<img src="assets/pytorch.svg" width="40">
+<img src="assets/catboost.svg" width="40">
+<img src="assets/optuna.ico" width="40">
+<img src="assets/wandb.svg" width="40">
 <img src="assets/apache_spark.svg" width="60">
 <img src="assets/hadoop.svg" width="50">
 <img src="assets/clickhouse.svg" width="45">
