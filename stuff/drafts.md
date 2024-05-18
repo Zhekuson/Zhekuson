@@ -14,3 +14,6 @@
 
 [](![Python](https://img.shields.io/badge/Python-366f9f))
 [](![Golang](https://img.shields.io/badge/Golang-29aedc))
+<a href="https://github.com/Zhekuson/" >
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=&theme=tokyonight" alt="GitHub Stats" />
+        </a>
