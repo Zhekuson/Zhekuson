@@ -53,32 +53,33 @@ _**DE/ETL:**_
 ## Some repos 
 
 <div>
-    <p align="center">    
+<p align="center">    
 	
 <a href="https://github.com/Zhekuson/TabnetResearch">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=TabnetResearch&theme=synthwave" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=TabnetResearch&theme=one_dark_pro" alt="GitHub Stats" />
         </a>
+<a href="https://github.com/Zhekuson/Analytic-geometry" >
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=Analytic-geometry&theme=one_dark_pro" alt="GitHub Stats" />
+        </a>
+</p>
 
-
-
+<p align="center">
 <a href="https://github.com/Zhekuson/SVDFaces">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=SVDFaces&theme=synthwave" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=SVDFaces&theme=one_dark_pro" alt="GitHub Stats" />
         </a>
 
 
 <a href="https://github.com/Zhekuson/slam" >
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=slam&theme=synthwave" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=slam&theme=one_dark_pro" alt="GitHub Stats" />
         </a>
 
 
 <a href="https://github.com/Zhekuson/codequiz" >
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=codequiz&theme=synthwave" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=codequiz&theme=one_dark_pro" alt="GitHub Stats" />
         </a>
 
 
-<a href="https://github.com/Zhekuson/Analytic-geometry" >
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=Analytic-geometry&theme=synthwave" alt="GitHub Stats" />
-        </a>
+
 
 </p>
 
