@@ -56,24 +56,30 @@ _**DE/ETL:**_
     <p align="center">    
 	
 <a href="https://github.com/Zhekuson/TabnetResearch">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=TabnetResearch&theme=tokyonight" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=TabnetResearch" alt="GitHub Stats" />
         </a>
+
+
 
 <a href="https://github.com/Zhekuson/SVDFaces">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=SVDFaces&theme=tokyonight" alt="GitHub Stats" />
         </a>
 
-<a href="https://github.com/Zhekuson/Analytic-geometry" >
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=Analytic-geometry&theme=tokyonight" alt="GitHub Stats" />
-        </a>
 
 <a href="https://github.com/Zhekuson/slam" >
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=slam&theme=tokyonight" alt="GitHub Stats" />
         </a>
 
+
 <a href="https://github.com/Zhekuson/codequiz" >
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=codequiz&theme=tokyonight" alt="GitHub Stats" />
         </a>
+
+
+<a href="https://github.com/Zhekuson/Analytic-geometry" >
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=Analytic-geometry&theme=tokyonight" alt="GitHub Stats" />
+        </a>
+
 </p>
 
 
