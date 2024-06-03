@@ -58,6 +58,9 @@ _**DE/ETL:**_
 <a href="https://github.com/Zhekuson/TabnetResearch">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=TabnetResearch&theme=one_dark_pro" alt="GitHub Stats" />
         </a>
+<a href="https://github.com/Zhekuson/" >
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=AutoML-thesis&theme=one_dark_pro" alt="GitHub Stats" />
+        </a>
 <a href="https://github.com/Zhekuson/Analytic-geometry" >
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=Analytic-geometry&theme=one_dark_pro" alt="GitHub Stats" />
         </a>
@@ -89,13 +92,21 @@ _**DE/ETL:**_
 
 
 ---
-## Education
 
-| Level             | Place of study                              | Field of study                                                                        | Timeline  |
-|-------------------|---------------------------------------------|---------------------------------------------------------------------------------------|-----------|
-| Master's degree   | HSE University, Faculty of Computer Science | Applied Mathematics and Informatics<br/>(Machine Learning and Data‐Intensive Systems) | 2022-2024 |
-| Bachelor's degree | HSE University, Faculty of Computer Science | Software Engineering                                                                  | 2018-2022 |
-| High School       | Lyceum №1580 at the MSTU                    | General education, in-depth Physics and Mathematics                                   | 2015-2018 |
+[//]: # (## Education)
 
-_"I used to be a developer like you. Then I took an arrow in the knee"_
+[//]: # ()
+[//]: # (| Level             | Place of study                              | Field of study                                                                        | Timeline  |)
 
+[//]: # (|-------------------|---------------------------------------------|---------------------------------------------------------------------------------------|-----------|)
+
+[//]: # (| Master's degree   | HSE University, Faculty of Computer Science | Applied Mathematics and Informatics<br/>&#40;Machine Learning and Data‐Intensive Systems&#41; | 2022-2024 |)
+
+[//]: # (| Bachelor's degree | HSE University, Faculty of Computer Science | Software Engineering                                                                  | 2018-2022 |)
+
+[//]: # (| High School       | Lyceum №1580 at the MSTU                    | General education, in-depth Physics and Mathematics                                   | 2015-2018 |)
+
+[//]: # ()
+[//]: # (_"I used to be a developer like you. Then I took an arrow in the knee"_)
+
+[//]: # ()
