@@ -59,7 +59,7 @@ _**DE/ETL:**_
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=TabnetResearch&theme=one_dark_pro" alt="GitHub Stats" />
         </a>
 <a href="https://github.com/Zhekuson/AutoML-thesis" >
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=AutoML-thesis&theme=" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=AutoML-thesis&theme=one_dark_pro" alt="GitHub Stats" />
         </a>
 <a href="https://github.com/Zhekuson/Analytic-geometry" >
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhekuson&repo=Analytic-geometry&theme=one_dark_pro" alt="GitHub Stats" />
