@@ -27,27 +27,41 @@ Remote/relocate is possible
 
 [//]: # (**Familiar:**  Golang)
 
-**Frameworks/Technologies:**
+[//]: # (**Frameworks/Technologies:**)
 
-**_ML:_**
+[//]: # ()
+[//]: # (**_ML:_**)
 
-![Pytorch](https://img.shields.io/badge/Pytorch-fa3812) 
-![Catboost](https://img.shields.io/badge/Catboost-fccb00)
-![Optuna](https://img.shields.io/badge/Optuna-0a2c75) 
-![Wandb](https://img.shields.io/badge/Wandb-191c1e)
+[//]: # ()
+[//]: # (![Pytorch]&#40;https://img.shields.io/badge/Pytorch-fa3812&#41; )
 
-_**DE/ETL:**_ 
+[//]: # (![Catboost]&#40;https://img.shields.io/badge/Catboost-fccb00&#41;)
 
-![PySpark](https://img.shields.io/badge/PySpark-f44f00) 
-![Hadoop](https://img.shields.io/badge/Hadoop-efeb03) 
-![Clickhouse](https://img.shields.io/badge/Clickhouse-fccb00)
-![Kafka](https://img.shields.io/badge/Kafka-ffffff) 
-![Airflow](https://img.shields.io/badge/Airflow-35e5f1) 
+[//]: # (![Optuna]&#40;https://img.shields.io/badge/Optuna-0a2c75&#41; )
 
-**_Utilities/other:_**
+[//]: # (![Wandb]&#40;https://img.shields.io/badge/Wandb-191c1e&#41;)
 
-![Docker](https://img.shields.io/badge/Docker-2060f6) ![Grafana](https://img.shields.io/badge/Grafana-fb7a00)
-![Git](https://img.shields.io/badge/Git-fa401e) ![Bash](https://img.shields.io/badge/Bash-22b643) ![Latex](https://img.shields.io/badge/Latex-010101)  
+[//]: # ()
+[//]: # (_**DE/ETL:**_ )
+
+[//]: # ()
+[//]: # (![PySpark]&#40;https://img.shields.io/badge/PySpark-f44f00&#41; )
+
+[//]: # (![Hadoop]&#40;https://img.shields.io/badge/Hadoop-efeb03&#41; )
+
+[//]: # (![Clickhouse]&#40;https://img.shields.io/badge/Clickhouse-fccb00&#41;)
+
+[//]: # (![Kafka]&#40;https://img.shields.io/badge/Kafka-ffffff&#41; )
+
+[//]: # (![Airflow]&#40;https://img.shields.io/badge/Airflow-35e5f1&#41; )
+
+[//]: # ()
+[//]: # (**_Utilities/other:_**)
+
+[//]: # ()
+[//]: # (![Docker]&#40;https://img.shields.io/badge/Docker-2060f6&#41; ![Grafana]&#40;https://img.shields.io/badge/Grafana-fb7a00&#41;)
+
+[//]: # (![Git]&#40;https://img.shields.io/badge/Git-fa401e&#41; ![Bash]&#40;https://img.shields.io/badge/Bash-22b643&#41; ![Latex]&#40;https://img.shields.io/badge/Latex-010101&#41;  )
 
 
 ## Some repos 
